@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Kkangs_App"
 include ':app'
 include ':chapter06'
+include ':chapter07'
